@@ -11,7 +11,7 @@
 ## Clone the Repository
 
 ```shell
-git clone git@github.com:dlavric/vagrant-vault-ha-raft-t;s.git
+git clone git@github.com:dlavric/vagrant-vault-ha-raft-tls.git
 cd vagrant-vault-ha-raft-tls
 ```
 
