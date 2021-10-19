@@ -1,6 +1,9 @@
 # vagrant-vault-ha-raft
 
- Repository that builds High Availability of 3xVault nodes with Raft as the backend storage
+ Repository that builds High Availability of 3xVault nodes with Raft as the backend storage.
+
+**This repository is just a laboratory environment and it shouldn't be used in production.
+The purpose of this repo is learning how to setup TLS for a 3x Vault node with Raft storage.**
 
 ## Pre-requisites
 
